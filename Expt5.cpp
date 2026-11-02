@@ -4,13 +4,12 @@
 #include <numeric> 
 using namespace std; 
  
-class Student 
+class Student
 { 
 public: 
     string name; 
     int mark;
 
- 
     char grade; 
 }; 
  
